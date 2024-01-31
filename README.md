@@ -7,6 +7,7 @@ Valid until 6th August 2024
 
 - database & seeders
 - routes & controllers
+- policies (services) 
 - unit tests & coverage
 - events & notifications & mails
 - views & components
